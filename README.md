@@ -8,7 +8,7 @@ A community-led, data-backed proposal to revive Terra Classic and restore USTC p
 
 **Project:** MM 3.0 (Mathematical Model)  
 **Focus:** USTC Repeg, LUNC Burn, DAO Activation  
-**Protocols Targeted:** Anchor, Mirror, Nexus, Astroport  
+**Protocols Targeted:** Anchor, Mirror, Nexus, Astroport &...  
 **Date:** August 2025  
 **Proposed by:** Terra Classic DAO / (SZ)
 
@@ -77,7 +77,7 @@ USTC_peg = [(BTC_reserve × BTC_price) + (LUNC_reserve × LUNC_price) + (USD1_re
 ## 🔗 Links
 
 - 📄 [Discourse Proposal](https://discourse.luncgoblins.com/t/official-proposal-mm-3-0/93)
-- 🧠 Twitter (X): @SZ_rinance
+- 🧠 Twitter (X): [@SZ_rinance](https://x.com/SZ_rinance)
 
 ---
 
